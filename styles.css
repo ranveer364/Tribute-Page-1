@@ -1,0 +1,47 @@
+body {
+    font-family: Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 100%;
+    background-color: gainsboro;
+}
+
+.head ul li {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+#abdul-image img {
+    width: 300px;
+    border-radius: 40%;
+}
+
+p #name-stl {
+    font-size: 50px;
+}
+
+.head, .abdul-content {
+    width: 80%;
+    margin: auto;
+}
+
+#arun-tiwari a {
+    text-decoration: none;
+}
+
+.head ul li {
+    display: inline-block;
+}
+
+
+.container, .abdul-content p {
+    line-height: 1.6;
+}
+
+.container, .abdul-content ul li {
+    line-height: 190%;
+}
